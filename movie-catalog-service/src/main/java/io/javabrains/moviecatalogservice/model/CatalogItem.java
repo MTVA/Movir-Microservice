@@ -22,4 +22,8 @@ public class CatalogItem {
         this.description = description;
         this.rating = rating;
     }
+
+    public void teste(){
+
+    }
 }

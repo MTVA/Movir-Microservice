@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="601053d6-a9b0-45fb-942f-ca8a8d387592" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-info-service/src/main/java/io/javabrains/movieinfoservice/MovieInfoServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-info-service/src/main/java/io/javabrains/movieinfoservice/MovieInfoServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rating-data-service/src/main/java/io/javabrains/ratingdataservice/RatingDataServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rating-data-service/src/main/java/io/javabrains/ratingdataservice/RatingDataServiceApplication.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +83,8 @@
       <workItem from="1564577127435" duration="4547000" />
       <workItem from="1564690167427" duration="357000" />
       <workItem from="1564776110077" duration="1365000" />
+      <workItem from="1565012049688" duration="500000" />
+      <workItem from="1565026446798" duration="3200000" />
     </task>
     <servers />
   </component>

@@ -42,7 +42,7 @@ public class CatalogResource {
                     .block();*/
 
             // A linha acima e o equivalente em WebCliente a linha abaixo em RestTemplate
-             Movie movie = restTemplate.getForObject("http://localhost:8082/movies/" + rating.getMovieId(), Movie.class);
+             Movie movie = restTemplate.getForObject("http://movie-info-service/movies/" + rating.getMovieId(), Movie.class);
 
             return new CatalogItem(movie.getName(), "Description", rating.getRating());
         })

@@ -23,7 +23,4 @@ public class CatalogItem {
         this.rating = rating;
     }
 
-    public void teste(){
-
-    }
 }
